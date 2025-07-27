@@ -36,3 +36,5 @@ https://drive.google.com/file/d/1uFCpfP_O0xiK0J1M13ZR-J9E6efJyLKt/view?usp=shari
 https://drive.google.com/file/d/1nAB0epwk4aA3IiqdpyIof2vC2EKtEMVG/view?usp=sharing  (CNN LINK TO GOOGLE DRIVE)
 
 https://drive.google.com/file/d/1REpI4TJQRx46N9W0lBJxsKNDBxdXYIMe/view?usp=sharing   (DATASET LINK GOOGLE DRIVE)
+
+https://docs.google.com/presentation/d/1O1DNA7aCWecsK2AWbHMy8cvU2OMJxycj/edit?usp=sharing&ouid=116288513931846046675&rtpof=true&sd=true (project report link)
